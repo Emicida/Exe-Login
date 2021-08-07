@@ -5,3 +5,4 @@ Visto isso, e com o tema de oficina mecânica, foram propostos os seguintes requ
 * Obrigatório usar ao menos 4 campos (de tipos diferentes) no cadastro;
 * Incluir e visualizar as informações no banco de dados (MYSQL), utilizando PHP;
 * Criar um banco de dados chamado “avaliacaoODAW”, uma tabela com o nome de acordo com o tema_definido e outra tabela “usuario” com os campos necessários. 
+* Criar um diretório com seu nome, incluindo os arquivos (PHP, HTML, etc.), um arquivo com o SQL utilizado para criar a base de dados, as tabelas e inserir os registros (usuário). 
